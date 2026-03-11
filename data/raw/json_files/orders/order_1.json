@@ -1,0 +1,36 @@
+{
+  "order_id": "ORD_00001",
+  "order_date": "2026-02-11T02:41:42.373060",
+  "customer": {
+    "customer_id": "CUST_22",
+    "name": "Customer 1",
+    "email": "customer1@email.com",
+    "address": {
+      "street": "311 Main St",
+      "city": "New York",
+      "zipcode": "37762"
+    }
+  },
+  "items": [
+    {
+      "product_id": "PROD_859",
+      "product_name": "Laptop",
+      "quantity": 3,
+      "price": 999.58,
+      "seller": {
+        "seller_id": "SELL_71",
+        "seller_name": "TechSeller"
+      }
+    },
+    {
+      "product_id": "PROD_812",
+      "product_name": "Headphones",
+      "quantity": 3,
+      "price": 212.47,
+      "seller": {
+        "seller_id": "SELL_40",
+        "seller_name": "OfficeSupplyCo"
+      }
+    }
+  ]
+}

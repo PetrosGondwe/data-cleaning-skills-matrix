@@ -1,0 +1,56 @@
+{
+  "order_id": "ORD_00006",
+  "order_date": "2026-02-18T02:41:42.373060",
+  "customer": {
+    "customer_id": "CUST_1",
+    "name": "Customer 6",
+    "email": "customer6@email.com",
+    "address": {
+      "street": "720 Main St",
+      "city": "Boston",
+      "zipcode": "20837"
+    }
+  },
+  "items": [
+    {
+      "product_id": "PROD_965",
+      "product_name": "Monitor",
+      "quantity": 3,
+      "price": 786.53,
+      "seller": {
+        "seller_id": "SELL_82",
+        "seller_name": "TechSeller"
+      }
+    },
+    {
+      "product_id": "PROD_640",
+      "product_name": "Laptop",
+      "quantity": 1,
+      "price": 219.3,
+      "seller": {
+        "seller_id": "SELL_98",
+        "seller_name": "OfficeSupplyCo"
+      }
+    },
+    {
+      "product_id": "PROD_586",
+      "product_name": "Keyboard",
+      "quantity": 1,
+      "price": 924.92,
+      "seller": {
+        "seller_id": "SELL_97",
+        "seller_name": "GadgetShop"
+      }
+    },
+    {
+      "product_id": "PROD_656",
+      "product_name": "Headphones",
+      "quantity": 3,
+      "price": 42.57,
+      "seller": {
+        "seller_id": "SELL_50",
+        "seller_name": "TechSeller"
+      }
+    }
+  ]
+}

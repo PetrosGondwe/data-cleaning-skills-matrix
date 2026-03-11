@@ -1,0 +1,26 @@
+{
+  "order_id": "ORD_00009",
+  "order_date": "2026-02-15T02:41:42.374060",
+  "customer": {
+    "customer_id": "CUST_25",
+    "name": "Customer 9",
+    "email": "customer9@email.com",
+    "address": {
+      "street": "325 Main St",
+      "city": "Chicago",
+      "zipcode": "23965"
+    }
+  },
+  "items": [
+    {
+      "product_id": "PROD_105",
+      "product_name": "Keyboard",
+      "quantity": 2,
+      "price": 366.32,
+      "seller": {
+        "seller_id": "SELL_44",
+        "seller_name": "TechSeller"
+      }
+    }
+  ]
+}

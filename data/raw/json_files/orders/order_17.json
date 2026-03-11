@@ -1,0 +1,36 @@
+{
+  "order_id": "ORD_00017",
+  "order_date": "2026-02-09T02:41:42.374060",
+  "customer": {
+    "customer_id": "CUST_48",
+    "name": "Customer 17",
+    "email": "customer17@email.com",
+    "address": {
+      "street": "250 Main St",
+      "city": "Boston",
+      "zipcode": "82339"
+    }
+  },
+  "items": [
+    {
+      "product_id": "PROD_438",
+      "product_name": "Headphones",
+      "quantity": 2,
+      "price": 958.88,
+      "seller": {
+        "seller_id": "SELL_39",
+        "seller_name": "GadgetShop"
+      }
+    },
+    {
+      "product_id": "PROD_744",
+      "product_name": "Mouse",
+      "quantity": 1,
+      "price": 644.07,
+      "seller": {
+        "seller_id": "SELL_65",
+        "seller_name": "GadgetShop"
+      }
+    }
+  ]
+}

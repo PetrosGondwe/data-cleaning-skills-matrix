@@ -1,0 +1,66 @@
+{
+  "order_id": "ORD_00004",
+  "order_date": "2026-03-08T02:41:42.373060",
+  "customer": {
+    "customer_id": "CUST_46",
+    "name": "Customer 4",
+    "email": "customer4@email.com",
+    "address": {
+      "street": "155 Main St",
+      "city": "New York",
+      "zipcode": "38668"
+    }
+  },
+  "items": [
+    {
+      "product_id": "PROD_566",
+      "product_name": "Keyboard",
+      "quantity": 1,
+      "price": 621.66,
+      "seller": {
+        "seller_id": "SELL_95",
+        "seller_name": "OfficeSupplyCo"
+      }
+    },
+    {
+      "product_id": "PROD_594",
+      "product_name": "Monitor",
+      "quantity": 1,
+      "price": 16.55,
+      "seller": {
+        "seller_id": "SELL_80",
+        "seller_name": "GadgetShop"
+      }
+    },
+    {
+      "product_id": "PROD_112",
+      "product_name": "Laptop",
+      "quantity": 3,
+      "price": 724.97,
+      "seller": {
+        "seller_id": "SELL_78",
+        "seller_name": "GadgetShop"
+      }
+    },
+    {
+      "product_id": "PROD_117",
+      "product_name": "Headphones",
+      "quantity": 3,
+      "price": 677.29,
+      "seller": {
+        "seller_id": "SELL_32",
+        "seller_name": "TechSeller"
+      }
+    },
+    {
+      "product_id": "PROD_198",
+      "product_name": "Headphones",
+      "quantity": 1,
+      "price": 248.56,
+      "seller": {
+        "seller_id": "SELL_89",
+        "seller_name": "OfficeSupplyCo"
+      }
+    }
+  ]
+}

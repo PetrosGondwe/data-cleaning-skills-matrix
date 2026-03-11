@@ -1,0 +1,7 @@
+# Data Cleaning Project Requirements 
+pandas 
+numpy 
+matplotlib 
+seaborn 
+jupyter 
+scikit-learn 

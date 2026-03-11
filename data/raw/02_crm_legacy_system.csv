@@ -1,0 +1,141 @@
+customer_id,full_name,email,phone,city,signup_date
+CUST_00038,Maria Smith,maria.smith@email.com,419-689-7149,San Antonio,2023-07-21
+CUST_00068,Merie Devis,mariadavis@emailcom,398-133-4792,Phoenix,2024-03-18
+CUST_00007,Micheel Mertinez,michaelmartinez@emailcom,682-408-7653,Dallas,2023-11-09
+CUST_00049,Sarah Miller,sarah.miller@email.com,600-668-4937,San Diego,2024-05-19
+CUST_00080,Robert Davis,robert.davis@email.com,395-778-7561,Dallas,2026-02-02
+CUST_00041,Robert Garcia,robert.garcia@email.com,170-618-6590,New York,2023-10-24
+CUST_00016,William Brown,william.brown@email.com,968-224-8478,Chicago,2023-12-12
+CUST_00004,Robert Johnson,robert.johnson@email.com,780-438-6143,Los Angeles,2024-03-04
+CUST_00010,"Johnson, Michael",michaeljohnson@emailcom,390-627-6491,Los Angeles,2023-11-24
+CUST_00063,Robert Martinez,robert.martinez@email.com,710-909-4697,Dallas,2025-02-15
+CUST_00098,Michael Miller,michael.miller@email.com,991-770-3529,Los Angeles,2024-11-16
+CUST_00003,Robert Smith,robert.smith@email.com,632-925-9821,Houston,2025-03-04
+CUST_00001,Robert Garcia,robert.garcia@email.com,846-905-6139,San Antonio,2024-06-29
+CUST_00069,Devid Devis,daviddavis@emailcom,172-803-4824,Phoenix,2023-12-26
+CUST_00009,Emma Davis,emma.davis@email.com,552-552-4501,Dallas,2024-11-12
+CUST_00002,William Johnson,william.johnson@email.com,494-690-4114,Phoenix,2026-01-25
+CUST_00090,Maria Rodriguez,maria.rodriguez@email.com,864-239-2143,Phoenix,2024-01-10
+CUST_00074,Lise Devis,lisadavis@emailcom,182-712-1653,San Antonio,2024-02-18
+CUST_00003,Rubert Smith,robertsmith@emailcom,632-925-9821,Houston,2025-03-04
+CUST_00028,Lisa Williams,lisa.williams@email.com,737-646-1441,San Antonio,2024-07-13
+CUST_00011,Sarah Jones,sarah.jones@email.com,330-925-4262,Chicago,2026-02-14
+CUST_00030,Lisa Williams,lisa.williams@email.com,151-366-7211,Philadelphia,2025-08-07
+CUST_00087,Jane Davis,jane.davis@email.com,220-763-3522,San Diego,2023-07-30
+CUST_00006,David Rodriguez,david.rodriguez@email.com,230-296-7888,San Antonio,2024-04-17
+CUST_00040,David Martinez,david.martinez@email.com,924-223-1672,Philadelphia,2024-09-12
+CUST_00059,"Martinez, John",johnmartinez@emailcom,391-580-8843,San Diego,2025-03-28
+CUST_00014,Sarah Williams,sarah.williams@email.com,771-804-1090,Los Angeles,2024-01-04
+CUST_00060,Michael Smith,michael.smith@email.com,358-982-8827,Los Angeles,2023-11-21
+CUST_00085,Lisa Johnson,lisa.johnson@email.com,129-745-4920,Chicago,2025-04-27
+CUST_00010,Michael Johnson,michael.johnson@email.com,390-627-6491,Los Angeles,2023-11-24
+CUST_00092,David Martinez,david.martinez@email.com,693-775-9022,Chicago,2024-12-09
+CUST_00029,Maria Smith,maria.smith@email.com,185-758-8022,Chicago,2023-10-06
+CUST_00023,Robert Miller,robert.miller@email.com,438-655-8633,San Antonio,2026-01-07
+CUST_00086,William Smith,william.smith@email.com,665-517-2527,Houston,2023-11-01
+CUST_00035,Sarah Williams,sarah.williams@email.com,584-785-2874,Austin,2023-07-15
+CUST_00071,Michael Jones,michael.jones@email.com,946-245-2169,New York,2025-09-23
+CUST_00087,"Davis, Jane",janedavis@emailcom,220-763-3522,San Diego,2023-07-30
+CUST_00000,David Williams,david.williams@email.com,694-371-1626,Los Angeles,2024-07-09
+CUST_00048,"Jones, Maria",mariajones@emailcom,669-110-9464,Houston,2025-12-14
+CUST_00059,John Martinez,john.martinez@email.com,391-580-8843,San Diego,2025-03-28
+CUST_00069,David Davis,david.davis@email.com,172-803-4824,Phoenix,2023-12-26
+CUST_00089,Sarah Davis,sarah.davis@email.com,664-248-7284,Houston,2023-08-11
+CUST_00020,William Davis,william.davis@email.com,741-344-5499,San Diego,2025-12-22
+CUST_00082,Robert Rodriguez,robert.rodriguez@email.com,944-101-9889,San Diego,2025-01-12
+CUST_00078,Maria Miller,maria.miller@email.com,750-933-9056,Los Angeles,2024-11-15
+CUST_00029,"Smith, Maria",mariasmith@emailcom,185-758-8022,Chicago,2023-10-06
+CUST_00084,John Brown,john.brown@email.com,373-662-3146,Phoenix,2024-12-18
+CUST_00008,Juhn Junes,johnjones@emailcom,393-315-8043,Austin,2024-06-28
+CUST_00070,Maria Brown,maria.brown@email.com,535-217-9922,Houston,2024-05-17
+CUST_00023,Rubert Miller,robertmiller@emailcom,438-655-8633,San Antonio,2026-01-07
+CUST_00097,"Davis, Jane",janedavis@emailcom,202-638-8486,New York,2024-03-02
+CUST_00057,John Rodriguez,john.rodriguez@email.com,229-380-1745,New York,2024-08-22
+CUST_00021,David Brown,david.brown@email.com,378-443-6238,Dallas,2025-12-19
+CUST_00053,Lisa Jones,lisa.jones@email.com,413-357-4777,Los Angeles,2024-03-03
+CUST_00085,Lisa Johnson,lisa.johnson@email.com,129-745-4920,Chicago,2025-04-27
+CUST_00099,David Garcia,david.garcia@email.com,738-809-7512,Los Angeles,2023-10-21
+CUST_00037,Maria Johnson,maria.johnson@email.com,896-938-3683,Phoenix,2025-11-21
+CUST_00015,Robert Brown,robert.brown@email.com,280-923-9486,San Diego,2026-01-19
+CUST_00039,Sarah Johnson,sarah.johnson@email.com,706-807-4978,Los Angeles,2024-03-28
+CUST_00061,Jane Miller,jane.miller@email.com,603-175-1878,Chicago,2025-10-10
+CUST_00033,William Smith,william.smith@email.com,458-329-2124,New York,2024-01-29
+CUST_00031,"Garcia, Lisa",lisagarcia@emailcom,445-879-7211,Phoenix,2024-01-31
+CUST_00094,Emma Brown,emma.brown@email.com,814-344-7274,Houston,2023-10-17
+CUST_00036,Sarah Davis,sarah.davis@email.com,816-362-7043,Chicago,2024-06-29
+CUST_00048,Maria Jones,maria.jones@email.com,669-110-9464,Houston,2025-12-14
+CUST_00051,Robert Brown,robert.brown@email.com,413-779-7046,San Diego,2024-08-22
+CUST_00038,"Smith, Maria",mariasmith@emailcom,419-689-7149,San Antonio,2023-07-21
+CUST_00072,David Martinez,david.martinez@email.com,866-944-5728,San Diego,2025-11-04
+CUST_00032,Robert Jones,robert.jones@email.com,954-183-8705,New York,2024-02-03
+CUST_00044,"Davis, William",williamdavis@emailcom,576-546-5397,Philadelphia,2023-10-21
+CUST_00009,Emme Devis,emmadavis@emailcom,552-552-4501,Dallas,2024-11-12
+CUST_00086,William Smith,william.smith@email.com,665-517-2527,Houston,2023-11-01
+CUST_00084,John Brown,john.brown@email.com,373-662-3146,Phoenix,2024-12-18
+CUST_00059,"Martinez, John",johnmartinez@emailcom,391-580-8843,San Diego,2025-03-28
+CUST_00033,William Smith,william.smith@email.com,458-329-2124,New York,2024-01-29
+CUST_00016,William Brown,william.brown@email.com,968-224-8478,Chicago,2023-12-12
+CUST_00058,Devid Williems,davidwilliams@emailcom,753-989-9042,Los Angeles,2023-09-30
+CUST_00064,Lisa Davis,lisa.davis@email.com,404-980-8025,Phoenix,2024-08-06
+CUST_00043,Michael Miller,michael.miller@email.com,280-851-9548,Phoenix,2024-06-19
+CUST_00047,Lise Bruwn,lisabrown@emailcom,463-916-5232,Philadelphia,2025-05-29
+CUST_00013,Maria Brown,maria.brown@email.com,835-813-7291,San Diego,2025-01-26
+CUST_00055,"Davis, Sarah",sarahdavis@emailcom,383-841-9595,Austin,2025-05-26
+CUST_00052,William Garcia,william.garcia@email.com,535-863-6419,Philadelphia,2024-03-22
+CUST_00034,John Brown,john.brown@email.com,304-959-1333,Austin,2025-10-06
+CUST_00018,William Miller,william.miller@email.com,950-661-8305,Chicago,2024-02-09
+CUST_00074,Lisa Davis,lisa.davis@email.com,182-712-1653,San Antonio,2024-02-18
+CUST_00054,Sarah Garcia,sarah.garcia@email.com,222-860-9779,Chicago,2025-08-27
+CUST_00076,Maria Martinez,maria.martinez@email.com,121-883-5415,Austin,2026-01-29
+CUST_00075,Emma Martinez,emma.martinez@email.com,356-126-2496,Houston,2023-07-01
+CUST_00086,"Smith, William",williamsmith@emailcom,665-517-2527,Houston,2023-11-01
+CUST_00046,Maria Miller,maria.miller@email.com,444-129-9098,Philadelphia,2025-09-06
+CUST_00042,"Davis, Robert",robertdavis@emailcom,208-543-6934,San Diego,2024-03-17
+CUST_00073,Lisa Jones,lisa.jones@email.com,816-512-5460,Dallas,2024-09-05
+CUST_00065,Maria Smith,maria.smith@email.com,724-857-2625,Houston,2024-06-09
+CUST_00072,"Martinez, David",davidmartinez@emailcom,866-944-5728,San Diego,2025-11-04
+CUST_00081,Lisa Johnson,lisa.johnson@email.com,422-358-6296,Los Angeles,2023-06-22
+CUST_00019,Lisa Davis,lisa.davis@email.com,365-869-5050,Phoenix,2024-01-17
+CUST_00030,Lisa Williams,lisa.williams@email.com,151-366-7211,Philadelphia,2025-08-07
+CUST_00068,Maria Davis,maria.davis@email.com,398-133-4792,Phoenix,2024-03-18
+CUST_00012,John Brown,john.brown@email.com,586-725-2193,San Diego,2025-01-11
+CUST_00044,William Davis,william.davis@email.com,576-546-5397,Philadelphia,2023-10-21
+CUST_00093,William Davis,william.davis@email.com,453-440-9903,San Antonio,2024-11-30
+CUST_00040,"Martinez, David",davidmartinez@emailcom,924-223-1672,Philadelphia,2024-09-12
+CUST_00047,Lisa Brown,lisa.brown@email.com,463-916-5232,Philadelphia,2025-05-29
+CUST_00023,Robert Miller,robert.miller@email.com,438-655-8633,San Antonio,2026-01-07
+CUST_00079,Emma Miller,emma.miller@email.com,441-428-2713,Chicago,2025-04-08
+CUST_00005,David Rodriguez,david.rodriguez@email.com,416-782-7691,Philadelphia,2025-01-23
+CUST_00007,Michael Martinez,michael.martinez@email.com,682-408-7653,Dallas,2023-11-09
+CUST_00025,Lisa Smith,lisa.smith@email.com,460-405-7389,San Antonio,2024-09-06
+CUST_00066,Sarah Jones,sarah.jones@email.com,776-183-3573,Houston,2025-09-15
+CUST_00097,Jane Davis,jane.davis@email.com,202-638-8486,New York,2024-03-02
+CUST_00045,Sarah Johnson,sarah.johnson@email.com,385-561-4995,San Diego,2024-08-05
+CUST_00067,William Johnson,william.johnson@email.com,260-102-7693,San Diego,2024-04-05
+CUST_00096,Michael Davis,michael.davis@email.com,137-229-9229,Austin,2025-04-06
+CUST_00001,"Garcia, Robert",robertgarcia@emailcom,846-905-6139,San Antonio,2024-06-29
+CUST_00083,John Brown,john.brown@email.com,630-470-9167,San Diego,2024-01-23
+CUST_00095,Robert Smith,robert.smith@email.com,425-862-8749,San Antonio,2025-02-09
+CUST_00097,Jene Devis,janedavis@emailcom,202-638-8486,New York,2024-03-02
+CUST_00008,John Jones,john.jones@email.com,393-315-8043,Austin,2024-06-28
+CUST_00012,Juhn Bruwn,johnbrown@emailcom,586-725-2193,San Diego,2025-01-11
+CUST_00031,Lisa Garcia,lisa.garcia@email.com,445-879-7211,Phoenix,2024-01-31
+CUST_00026,William Martinez,william.martinez@email.com,325-599-4595,Phoenix,2024-12-20
+CUST_00055,Sarah Davis,sarah.davis@email.com,383-841-9595,Austin,2025-05-26
+CUST_00050,Lisa Davis,lisa.davis@email.com,911-117-2524,Phoenix,2025-07-28
+CUST_00091,Robert Garcia,robert.garcia@email.com,906-619-5377,New York,2025-05-26
+CUST_00056,Jane Brown,jane.brown@email.com,403-332-6912,Chicago,2025-05-06
+CUST_00062,Maria Jones,maria.jones@email.com,187-354-2940,Dallas,2024-01-19
+CUST_00059,John Martinez,john.martinez@email.com,391-580-8843,San Diego,2025-03-28
+CUST_00058,David Williams,david.williams@email.com,753-989-9042,Los Angeles,2023-09-30
+CUST_00027,Lisa Smith,lisa.smith@email.com,498-444-7624,Chicago,2023-11-02
+CUST_00094,Emma Brown,emma.brown@email.com,814-344-7274,Houston,2023-10-17
+CUST_00042,Robert Davis,robert.davis@email.com,208-543-6934,San Diego,2024-03-17
+CUST_00017,Lisa Rodriguez,lisa.rodriguez@email.com,672-709-6198,San Diego,2024-06-22
+CUST_00024,Sarah Miller,sarah.miller@email.com,498-888-1320,Austin,2025-02-15
+CUST_00047,Lisa Brown,lisa.brown@email.com,463-916-5232,Philadelphia,2025-05-29
+CUST_00022,Michael Williams,michael.williams@email.com,336-492-3503,Houston,2026-01-05
+CUST_00030,Lise Williems,lisawilliams@emailcom,151-366-7211,Philadelphia,2025-08-07
+CUST_00077,Michael Davis,michael.davis@email.com,631-767-8245,Phoenix,2025-09-07
+CUST_00088,Devid Rudriguez,davidrodriguez@emailcom,822-379-7807,San Diego,2024-11-13
+CUST_00088,David Rodriguez,david.rodriguez@email.com,822-379-7807,San Diego,2024-11-13

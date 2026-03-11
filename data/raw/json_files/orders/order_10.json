@@ -1,0 +1,66 @@
+{
+  "order_id": "ORD_00010",
+  "order_date": "2026-03-06T02:41:42.374060",
+  "customer": {
+    "customer_id": "CUST_6",
+    "name": "Customer 10",
+    "email": "customer10@email.com",
+    "address": {
+      "street": "192 Main St",
+      "city": "Seattle",
+      "zipcode": "68830"
+    }
+  },
+  "items": [
+    {
+      "product_id": "PROD_668",
+      "product_name": "Headphones",
+      "quantity": 2,
+      "price": 112.26,
+      "seller": {
+        "seller_id": "SELL_21",
+        "seller_name": "GadgetShop"
+      }
+    },
+    {
+      "product_id": "PROD_667",
+      "product_name": "Laptop",
+      "quantity": 3,
+      "price": 602.06,
+      "seller": {
+        "seller_id": "SELL_51",
+        "seller_name": "GadgetShop"
+      }
+    },
+    {
+      "product_id": "PROD_112",
+      "product_name": "Keyboard",
+      "quantity": 2,
+      "price": 393.92,
+      "seller": {
+        "seller_id": "SELL_20",
+        "seller_name": "OfficeSupplyCo"
+      }
+    },
+    {
+      "product_id": "PROD_672",
+      "product_name": "Mouse",
+      "quantity": 3,
+      "price": 525.89,
+      "seller": {
+        "seller_id": "SELL_97",
+        "seller_name": "GadgetShop"
+      }
+    },
+    {
+      "product_id": "PROD_273",
+      "product_name": "Mouse",
+      "quantity": 2,
+      "price": 308.12,
+      "seller": {
+        "seller_id": "SELL_73",
+        "seller_name": "TechSeller"
+      }
+    }
+  ]
+}

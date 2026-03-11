@@ -1,0 +1,26 @@
+{
+  "order_id": "ORD_00015",
+  "order_date": "2026-02-14T02:41:42.374060",
+  "customer": {
+    "customer_id": "CUST_44",
+    "name": "Customer 15",
+    "email": "customer15@email.com",
+    "address": {
+      "street": "603 Main St",
+      "city": "Boston",
+      "zipcode": "55215"
+    }
+  },
+  "items": [
+    {
+      "product_id": "PROD_594",
+      "product_name": "Laptop",
+      "quantity": 2,
+      "price": 421.82,
+      "seller": {
+        "seller_id": "SELL_20",
+        "seller_name": "TechSeller"
+      }
+    }
+  ]
+}
